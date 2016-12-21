@@ -1,6 +1,6 @@
 # C-Sharp-BestAppEver
 
-I have hosted this website for you to see at: www.321191.co.uk
+I pay £4.20p monthly to host this generic C# website for you employers to view at: www.321191.co.uk in the hope that all you employers will be very impressed.
 
 Technologies used:
 C#, ASP.Net, SQL Server, HTML5, CSS3 and Bootstrap Javascript.
@@ -11,8 +11,4 @@ Please see my www.facebook.com/m2lawrence for all my great screen shots of all t
 
 If you want to see this great C Sharp code, then please give me a face interview asap?
 
-Kind regards,
-
-Michael Lawrence BSc (HONS)   
-
-m2lawrence77@outlook.com
+Kind regards, Michael Lawrence BSc (HONS) m2lawrence77@outlook.com
