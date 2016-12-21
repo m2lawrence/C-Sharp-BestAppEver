@@ -1,4 +1,4 @@
-# C-Sharp-BestAppEver
+,# C-Sharp-BestAppEver
 I have hosted this website for you to see at: www.321191.co.uk
 
 Technologies used:
@@ -10,6 +10,8 @@ Please see my www.facebook.com/m2lawrence for all my great screen shots of all t
 
 If you want to see this great C Sharp code, then please give me a face interview asap?
 
-Kind regards
-Michael Lawrence BSc (HONS)
+Kind regards,
+
+Michael Lawrence BSc (HONS)   
+
 m2lawrence77@outlook.com
