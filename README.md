@@ -15,4 +15,4 @@ Kind regards, Michael Lawrence BSc (HONS)
 
 m2lawrence77@outlook.com 
 
-Note for security I have blanked out all the security details in this app, and I am currently woring on another app that has a user in the App Pool and then all security is placed into the Web Config File on my computer and is hidden/protected by a FireWall.
+Note for security I have blanked out all the security details in this app, and I am currently working on another app that has a user in the App Pool and then all security is placed into the Web Config File on my computer and is hidden/protected by a FireWall to STOP any hackers hacking into my SQl Connection strings/signals as they are sent over the internet.
