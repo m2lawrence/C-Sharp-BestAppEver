@@ -1,4 +1,4 @@
-C-Sharp-BestAppEver
+#C-Sharp-BestAppEver
 
 I pay £4.20p monthly to host this generic C# website for you employers to view at: www.321191.co.uk in the hope that you will be very impressed.
 
@@ -14,3 +14,5 @@ For a great demo please offer me a face interview asap?
 Kind regards, Michael Lawrence BSc (HONS) 
 
 m2lawrence77@outlook.com 
+
+Note for security I have blanked out all the security details in this app, and I am currently woring on another app that has a user in the App Pool and then all security is placed into the Web Config File on my computer and is hidden/protected by a FireWall.
